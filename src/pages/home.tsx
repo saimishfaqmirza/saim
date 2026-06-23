@@ -4,7 +4,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col justify-center items-center bg-gradient-to-r from-blue-500 to-indigo-600 text-white text-center px-6">
       
       <h1 className="text-5xl font-bold mb-4">
-        Welcome to My Website 🚀
+        Welcome to My Website 
       </h1>
 
       <p className="text-lg max-w-xl mb-6">
