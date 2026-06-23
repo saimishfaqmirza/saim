@@ -70,7 +70,7 @@ function App() {
                 >
                   <use href="/icons.svg#github-icon"></use>
                 </svg>
-                GitHub
+                Git & GitHub
               </a>
             </li>
             <li>
@@ -82,7 +82,7 @@ function App() {
                 >
                   <use href="/icons.svg#discord-icon"></use>
                 </svg>
-                Discord
+                Abc
               </a>
             </li>
             <li>
